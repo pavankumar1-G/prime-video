@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.prime-image {
+  width: 100%;
+}
+.prime-video-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+.movie-carousel-container {
+  padding: 40px;
+}
+.heading {
+  color: #ffffff;
+  font-size: 35px;
+  margin-bottom: 30px;
+}
